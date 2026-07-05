@@ -1,22 +1,17 @@
 ### Hey, I'm Alvaro
 
-I build little machines that argue with PDFs, payments, subway alerts, and messy data until something useful falls out.
+I build tiny systems that make PDFs, payment rails, subway alerts, and cursed datasets confess.
 
-I like building systems that make messy information behave.
+If the data is clean, I am probably in the wrong repo.
 
-Recent rabbit holes:
+Things currently fighting back:
 
-- RAG over scientific papers
-- ISO 20022 payment-message validation
-- NYC subway failure / delay risk prediction
-- financial data pipelines
-- anything that starts as a notebook and should probably become real software
+- [**DeepLIT**](https://github.com/leverageAlpha/DeepLIT) - RAG, agents, and knowledge graphs for interrogating scientific papers without becoming a PDF janitor.
+- [**NLP Practicals**](https://github.com/leverageAlpha/nlp-practicals) - negotiation agents, audio splicing, a Quijote search engine, RAG, and tiny transformers. Coursework that escaped containment.
+- **ISO 20022 Validator** - making `pacs` and `camt` payment messages complain before banks do.
+- **NYC Subway Failure Prediction** - ranking next-hour transit risk because subway alerts are basically time series with attitude.
+- **Market Data Backtester** - order books, experiments, and small ways to lose sleep responsibly.
 
-Projects I want people to judge me by:
+I like systems that start as a notebook, grow a backend, acquire a graph database for unclear reasons, and eventually become useful enough that the mess was worth it.
 
-- **DeepLIT** - RAG + agents + knowledge graphs for turning scientific papers into something you can actually interrogate.
-- **NYC Subway Failure Prediction** - ranking NYC subway lines by next-hour alert/delay risk because apparently trains also produce time series.
-- **ISO 20022 Validator** - making `pacs` / `camt` payment messages complain before banks do.
-- **Market Data Backtester** - a C++/Python playground for order books, backtests, and other ways to lose sleep.
-
-Other public repos here are mostly personal, academic, or hackathon projects. I keep them around because they show the trail: rough notebooks, weird prototypes, cleaner pipelines, and the occasional thing that starts looking like real software.
+Most public repos here are personal, academic, or hackathon-shaped. I keep the trail visible: rough edges, weird prototypes, cleaner rewrites, and the occasional machine that should not work but does.
